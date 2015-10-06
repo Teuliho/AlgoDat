@@ -11,4 +11,4 @@ Dominik Staudacher
 
 Compilieren
 ===========
-Zum Compilieren benötigen Sie einen C++-Compiler.
+Zum Compilieren benötigen Sie einen C++-Compiler (muss den C++11-Standard unterstützen).
